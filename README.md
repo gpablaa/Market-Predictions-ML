@@ -1,1 +1,1 @@
-# Predicting The Stock Market Using Machine Learning And Python
+# Stock Market Predictions Using Machine Learning And Python
